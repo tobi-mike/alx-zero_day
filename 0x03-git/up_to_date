@@ -1,2 +1,8 @@
 git fetch
+<<<<<<< HEAD
 git pull
+=======
+git merge origin/master
+git pull origin
+git push origin
+>>>>>>> update_script
